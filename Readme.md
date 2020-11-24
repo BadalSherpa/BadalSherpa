@@ -19,10 +19,10 @@
  
 # [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)](https://badalsherpa.github.io/BadalSherpa/)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BadalSherpa.visitor-badge)   ![GitHub stars](https://img.shields.io/github/stars/BadalSherpa/BadalSherpa?style=social)  
 
-### Visit my technical website to learn and hone up your Knowledge
+### Visit my technical website [www.CodingHumans.xyz][codinghumans] to learn and hone up your Knowledge
 
 [<img align="left" src="https://2.bp.blogspot.com/-MFPdDmP2_zQ/X2rEpZxszfI/AAAAAAAAAZc/WZ0LuOwJsQo3q5oVVzce-9DkCWiLr-hnwCK4BGAYYCw/s1600/COdingHumans%2BOfficial%2Blogo.png">][codinghumans]
-[www.CodingHumans.xyz][codinghumans]
+
 
 <br />
 <br />
