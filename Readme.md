@@ -1,8 +1,8 @@
-## Hey there, I'm [Badal Sherpa][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hey there welcome to my github profile , I'm [Badal Sherpa][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently pursuing  B. tech computer science engineering from Lovely Professional University.
+- 💻 I’m currently pursuing  B. tech computer science engineering from Lovely Professional University.
 - ⚡ I'm interested in competitive coding and Full Stack Web-Development.
-- ❤️ Learning and Exploring React
+- ❤️ Skilling up MERN stack
 - 🥅 2020 Goals: Make my Data Structures and Algorithms strong !.
 <br />
 
@@ -21,7 +21,7 @@
 
 ### Competative Coding Profile
 
- # [![Hackerrank](https://img.shields.io/badge/-Hackerrank-00b300?style=flat&labelColor=00b300&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Badal_Sherpa)  [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-006600?style=flat&labelColor=#006600&logo=Geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/badalsherpa7/practice/) [![Codechef](https://img.shields.io/badge/-Codechef-6b6b47?style=flat&labelColor=6b6b47&logo=Codechef&logoColor=white)](https://www.codechef.com/users/sanssangay)[![Hackerearth](https://img.shields.io/badge/-Hackerearth-00b300?style=flat&labelColor=00b300&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@badalsherpa7)
+ # [![Hackerrank](https://img.shields.io/badge/-Hackerrank-00b300?style=flat&labelColor=00b300&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Badal_Sherpa)  [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-006600?style=flat&labelColor=#006600&logo=Geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/badalsherpa7/practice/) [![Codechef](https://img.shields.io/badge/-Codechef-6b6b47?style=flat&labelColor=6b6b47&logo=Codechef&logoColor=white)](https://www.codechef.com/users/sanssangay) [![Hackerearth](https://img.shields.io/badge/-Hackerearth-00b300?style=flat&labelColor=323754&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@badalsherpa7)
  
  <br />
 
