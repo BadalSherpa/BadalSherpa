@@ -29,8 +29,6 @@
 ![Badal's github stats](https://github-readme-stats.vercel.app/api?username=BadalSherpa&show_icons=true&theme=highcontrast&align=right&show_owner=true&include_all_commits=true&cache_seconds=800&count_private=true)
 
 
-*NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
-
 <a href="https://github.com/BadalSherpa/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadalSherpa&layout=compact&title_color=000&text_color=000&bg_color=e6e6e6&langs_count=35&hide_border=false" />
 </a>
