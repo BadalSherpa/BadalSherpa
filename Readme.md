@@ -21,7 +21,7 @@
 
 ### Competative Coding Profile
 
- # [![Hackerrank](https://img.shields.io/badge/-Hackerrank-00b300?style=flat&labelColor=00b300&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Badal_Sherpa)  [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-006600?style=flat&labelColor=#006600&logo=Geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/badalsherpa7/practice/) [![Codechef](https://img.shields.io/badge/-Codechef-6b6b47?style=flat&labelColor=6b6b47&logo=Codechef&logoColor=white)](https://www.codechef.com/users/sanssangay) [![Hackerearth](https://img.shields.io/badge/-Hackerearth-00b300?style=flat&labelColor=323754&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@badalsherpa7)
+ # [![Hackerrank](https://img.shields.io/badge/-Hackerrank-00b300?style=flat&labelColor=00b300&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Badal_Sherpa)  [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-006600?style=flat&labelColor=#006600&logo=Geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/badalsherpa7/practice/) [![Codechef](https://img.shields.io/badge/-Codechef-6b6b47?style=flat&labelColor=6b6b47&logo=Codechef&logoColor=white)](https://www.codechef.com/users/sanssangay) [![Hackerearth](https://img.shields.io/badge/-Hackerearth-323754?style=flat&labelColor=323754&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@badalsherpa7)
  
  <br />
 
@@ -41,4 +41,4 @@
 [linkedin]: http://www.linkedin.com/in/badal-sherpa-5799a9196/
 [github]: https://github.com/BadalSherpa
 [twitter]: https://twitter.com/SherpaBadal
-[mail]: badalsherpa7@gmail.com
+[mail]: mailto:badalsherpa7@gmail.com
