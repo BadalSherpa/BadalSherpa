@@ -23,7 +23,7 @@
 
 [<img align="left" src="https://2.bp.blogspot.com/-MFPdDmP2_zQ/X2rEpZxszfI/AAAAAAAAAZc/WZ0LuOwJsQo3q5oVVzce-9DkCWiLr-hnwCK4BGAYYCw/s1600/COdingHumans%2BOfficial%2Blogo.png">][codinghumans]
 
-<br>
+<br />
 
 ### Competitive Coding Profiles
 
