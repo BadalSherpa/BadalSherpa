@@ -46,6 +46,9 @@ html {
 	text-decoration:none;
 	text-shadow:0 1px 29px #263666;
 }
+.btnMessage:hover{
+    background-color:#F0F0F0;
+}
 
 body {
     width: 100%;
