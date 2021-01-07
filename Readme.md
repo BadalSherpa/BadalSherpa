@@ -1,9 +1,9 @@
 ## Hey there welcome to my github profile , I'm [Badal Sherpa][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 💻 I’m currently pursuing  B. tech computer science engineering from Lovely Professional University.
-- ⚡ I'm interested in competitive coding and Full Stack Web-Development.
+- ⚡ I'm interested in Full Stack Web-Development and real life problem solving.
 - ❤️ Honing up my MERN stack development
-- 🥅 2020 Goals: Make my Data Structures and Algorithms strong !.
+- 🥅 2021 Goals: Make my Data Structures and Algorithms strong !.
 <br />
 
 ### Lets be friends, connect with me at:
