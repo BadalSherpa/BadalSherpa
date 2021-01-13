@@ -17,7 +17,7 @@
 
 <br />
  
-# [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)](https://badalsherpa.github.io/BadalSherpa_/)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BadalSherpa.visitor-badge)   ![GitHub stars](https://img.shields.io/github/stars/BadalSherpa/BadalSherpa?style=social)  
+# [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)](https://badalsherpa.github.io)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BadalSherpa.visitor-badge)   ![GitHub stars](https://img.shields.io/github/stars/BadalSherpa/BadalSherpa?style=social)  
 
 ### Visit my technical website [www.CodingHumans.xyz][codinghumans] to learn and hone up your Knowledge
 
@@ -42,7 +42,7 @@
 </a>
 
 
-[website]: https://badalsherpa.github.io/BadalSherpa/
+[website]: https://badalsherpa.github.io/
 [instagram]: https://www.instagram.com/_sans7_/
 [linkedin]: http://www.linkedin.com/in/badal-sherpa-5799a9196/
 [github]: https://github.com/BadalSherpa
