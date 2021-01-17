@@ -1,9 +1,9 @@
 ## Hey there welcome to my github profile , I'm [Badal Sherpa][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 💻 I’m currently pursuing  B. tech computer science engineering from Lovely Professional University.
+- 💻 I’m currently a Third year undergraduate pursuing  B.Tech computer science engineering from Lovely Professional University.
 - ⚡ I'm interested in Full Stack Web-Development and real life problem solving.
-- ❤️ Honing up my MERN stack development
-- 🥅 2021 Goals: Make my Data Structures and Algorithms strong !.
+- ❤️ Honing up my MERN stack development and making my Data Structures and Algorithms strong
+- 🥅 2021 Goals: Make an open source contributions !.
 <br />
 
 ### Lets be friends, connect with me at:
@@ -17,7 +17,7 @@
 
 <br />
  
-# [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)](https://badalsherpa.github.io)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BadalSherpa.visitor-badge)   ![GitHub stars](https://img.shields.io/github/stars/BadalSherpa/BadalSherpa?style=social)  
+# [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)](https://badalsherpa.github.io)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BadalSherpa.visitor-badge)   ![GitHub stars](https://img.shields.io/github/stars/BadalSherpa/BadalSherpa?style=social)  [![Check out my Resume](https://img.shields.io/badge/Portfolio%20website-yellow)](https://drive.google.com/file/d/1eL5d-qjriT9Wrih_cQ_oyQsA7xNJXH8u/view)
 
 ### Visit my technical website [www.CodingHumans.xyz][codinghumans] to learn and hone up your Knowledge
 
