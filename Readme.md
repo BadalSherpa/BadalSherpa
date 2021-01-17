@@ -17,7 +17,7 @@
 
 <br />
  
-# [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)](https://badalsherpa.github.io)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BadalSherpa.visitor-badge)   ![GitHub stars](https://img.shields.io/github/stars/BadalSherpa/BadalSherpa?style=social)  [![Check out my Resume](https://img.shields.io/badge/Portfolio%20website-yellow)](https://drive.google.com/file/d/1eL5d-qjriT9Wrih_cQ_oyQsA7xNJXH8u/view)
+# [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)](https://badalsherpa.github.io)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BadalSherpa.visitor-badge)   ![GitHub stars](https://img.shields.io/github/stars/BadalSherpa/BadalSherpa?style=social)  [![Check out my Resume](https://img.shields.io/badge/Look%20my%20Resume-cyan)](https://drive.google.com/file/d/1eL5d-qjriT9Wrih_cQ_oyQsA7xNJXH8u/view)
 
 ### Visit my technical website [www.CodingHumans.xyz][codinghumans] to learn and hone up your Knowledge
 
