@@ -14,6 +14,7 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 <br/>
 <br/>
 <a href="https://stackoverflow.com/users/13983584/badal-sherpa"><img src="https://stackoverflow.com/users/flair/13983584.png" width="208" height="58" alt="profile for Badal Sherpa at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Badal Sherpa at Stack Overflow, Q&amp;A for professional and enthusiast programmers"/></a>
@@ -48,5 +49,6 @@
 [linkedin]: http://www.linkedin.com/in/badal-sherpa-5799a9196/
 [github]: https://github.com/BadalSherpa
 [twitter]: https://twitter.com/SherpaBadal
+[stackoverflow]: https://stackoverflow.com/users/13983584/badal-sherpa
 [mail]: mailto:badalsherpa7@gmail.com
 [codinghumans]: https://www.codinghumans.xyz/
