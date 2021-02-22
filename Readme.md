@@ -19,7 +19,7 @@
 <br/>
 <a href="https://stackoverflow.com/users/13983584/badal-sherpa"><img src="https://stackoverflow.com/users/flair/13983584.png" width="208" height="58" alt="profile for Badal Sherpa at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Badal Sherpa at Stack Overflow, Q&amp;A for professional and enthusiast programmers"/></a>
  
-# [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)](https://badalsherpa.github.io)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BadalSherpa.visitor-badge)   ![GitHub stars](https://img.shields.io/github/stars/BadalSherpa/BadalSherpa?style=social)  [![Check out my Resume](https://img.shields.io/badge/Check%20out%20my%20Resume-cyan)](https://drive.google.com/file/d/1eL5d-qjriT9Wrih_cQ_oyQsA7xNJXH8u/view)
+# [![Portfolio Website](https://img.shields.io/badge/Portfolio%20website-yellow)](https://badalsherpa.github.io)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BadalSherpa.visitor-badge)   ![GitHub stars](https://img.shields.io/github/stars/BadalSherpa/BadalSherpa?style=social)  [![Check out my Resume](https://img.shields.io/badge/Check%20out%20my%20Resume-cyan)](https://drive.google.com/file/d/1ypjaQgZxTm6aw5raacGJt1SPYsg1Fkik/view)
 
 ### Visit my technical website [www.CodingHumans.xyz][codinghumans] to learn and hone up your Knowledge
 
